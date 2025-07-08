@@ -1,4 +1,4 @@
-@gokul 22i313 psgtech
+Ariprakash R psgtech
 How to run the Art Gallery Management System (agms) Project
 1. Download the zip file
 
